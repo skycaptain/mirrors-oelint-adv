@@ -1,0 +1,8 @@
+-   id: oelint-adv
+    name: oelint_adv
+    entry: oelint-adv
+    language: python
+    'types': [python]
+    args: ["--fix"]
+    require_serial: false
+    additional_dependencies: []
